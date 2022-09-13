@@ -1,7 +1,7 @@
 from pathlib import Path
 # tts api
 
-tts_api = "https://api.heycmm.cn/music/say?tex="
+tts_api = ""
 # 图片路径
 IMAGE_PATH = Path("resources/img/")
 # 字体路径

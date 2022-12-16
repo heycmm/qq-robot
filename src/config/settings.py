@@ -1,7 +1,9 @@
 from pathlib import Path
+
 # tts api
 
 tts_api = ""
+chat_api = ""
 # 图片路径
 IMAGE_PATH = Path("resources/img/")
 # 字体路径
